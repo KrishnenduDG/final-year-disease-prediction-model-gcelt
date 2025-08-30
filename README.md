@@ -107,7 +107,7 @@ Our goal is to provide a data-driven decision support system for early diagnosis
 
 Alternatively, you can open the desired notebook and run it in [Google Colab](https://colab.research.google.com/).
 
-### 📌 Future Scope
+### 📌 Future Scopes
 
 - Extend prediction to more diseases (e.g., cancer, stroke).
 
